@@ -32,3 +32,5 @@
 [2026-08-18] Aries: No horoscope available
 
 [2026-08-18] Pisces: No horoscope available
+
+[2026-08-18] Leo: No horoscope available
