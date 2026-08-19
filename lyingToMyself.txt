@@ -38,3 +38,5 @@
 [2026-08-19] Scorpio: No horoscope available
 
 [2026-08-19] Cancer: No horoscope available
+
+[2026-08-19] Libra: No horoscope available
