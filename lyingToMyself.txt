@@ -44,3 +44,5 @@
 [2026-08-20] Cancer: No horoscope available
 
 [2026-08-20] Pisces: No horoscope available
+
+[2026-08-20] Taurus: No horoscope available
