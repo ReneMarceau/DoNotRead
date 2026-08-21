@@ -46,3 +46,5 @@
 [2026-08-20] Pisces: No horoscope available
 
 [2026-08-20] Taurus: No horoscope available
+
+[2026-08-21] Gemini: No horoscope available
