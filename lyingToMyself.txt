@@ -50,3 +50,5 @@
 [2026-08-21] Gemini: No horoscope available
 
 [2026-08-21] Scorpio: No horoscope available
+
+[2026-08-22] Pisces: No horoscope available
