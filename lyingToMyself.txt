@@ -56,3 +56,5 @@
 [2026-08-23] Cancer: No horoscope available
 
 [2026-08-23] Aries: No horoscope available
+
+[2026-08-23] Libra: No horoscope available
