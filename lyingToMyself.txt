@@ -64,3 +64,5 @@
 [2026-08-24] Aries: No horoscope available
 
 [2026-08-25] Virgo: No horoscope available
+
+[2026-08-26] Scorpio: No horoscope available
