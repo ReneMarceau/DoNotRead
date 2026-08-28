@@ -66,3 +66,5 @@
 [2026-08-25] Virgo: No horoscope available
 
 [2026-08-26] Scorpio: No horoscope available
+
+[2026-08-28] Pisces: No horoscope available
