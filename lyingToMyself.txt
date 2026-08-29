@@ -70,3 +70,5 @@
 [2026-08-28] Pisces: No horoscope available
 
 [2026-08-29] Cancer: No horoscope available
+
+[2026-08-29] Gemini: No horoscope available
