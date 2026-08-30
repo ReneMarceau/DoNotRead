@@ -74,3 +74,5 @@
 [2026-08-29] Gemini: No horoscope available
 
 [2026-08-30] Capricorn: No horoscope available
+
+[2026-08-30] Leo: No horoscope available
