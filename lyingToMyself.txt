@@ -78,3 +78,5 @@
 [2026-08-30] Leo: No horoscope available
 
 [2026-08-30] Leo: No horoscope available
+
+[2026-08-30] Aries: No horoscope available
