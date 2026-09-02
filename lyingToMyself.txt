@@ -82,3 +82,5 @@
 [2026-08-30] Aries: No horoscope available
 
 [2026-08-31] Sagittarius: No horoscope available
+
+[2026-09-02] Capricorn: No horoscope available
