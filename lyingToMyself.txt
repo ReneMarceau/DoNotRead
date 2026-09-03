@@ -86,3 +86,5 @@
 [2026-09-02] Capricorn: No horoscope available
 
 [2026-09-03] Leo: No horoscope available
+
+[2026-09-03] Aries: No horoscope available
