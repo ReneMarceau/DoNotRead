@@ -88,3 +88,5 @@
 [2026-09-03] Leo: No horoscope available
 
 [2026-09-03] Aries: No horoscope available
+
+[2026-09-04] Cancer: No horoscope available
