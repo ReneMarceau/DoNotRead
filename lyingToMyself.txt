@@ -92,3 +92,5 @@
 [2026-09-04] Cancer: No horoscope available
 
 [2026-09-05] Libra: No horoscope available
+
+[2026-09-05] Capricorn: No horoscope available
