@@ -94,3 +94,5 @@
 [2026-09-05] Libra: No horoscope available
 
 [2026-09-05] Capricorn: No horoscope available
+
+[2026-09-05] Gemini: No horoscope available
