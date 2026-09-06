@@ -98,3 +98,5 @@
 [2026-09-05] Gemini: No horoscope available
 
 [2026-09-06] Taurus: No horoscope available
+
+[2026-09-06] Pisces: No horoscope available
