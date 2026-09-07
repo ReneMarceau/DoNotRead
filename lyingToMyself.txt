@@ -102,3 +102,5 @@
 [2026-09-06] Pisces: No horoscope available
 
 [2026-09-07] Libra: No horoscope available
+
+[2026-09-07] Capricorn: No horoscope available
