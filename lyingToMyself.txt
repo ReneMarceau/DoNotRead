@@ -112,3 +112,5 @@
 [2026-09-09] Cancer: No horoscope available
 
 [2026-09-09] Cancer: No horoscope available
+
+[2026-09-09] Aries: No horoscope available
