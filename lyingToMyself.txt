@@ -116,3 +116,5 @@
 [2026-09-09] Aries: No horoscope available
 
 [2026-09-11] Cancer: No horoscope available
+
+[2026-09-11] Pisces: No horoscope available
