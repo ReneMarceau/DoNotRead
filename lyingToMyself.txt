@@ -118,3 +118,5 @@
 [2026-09-11] Cancer: No horoscope available
 
 [2026-09-11] Pisces: No horoscope available
+
+[2026-09-13] Libra: No horoscope available
