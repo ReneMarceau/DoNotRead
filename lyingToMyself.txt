@@ -124,3 +124,5 @@
 [2026-09-16] Virgo: No horoscope available
 
 [2026-09-16] Sagittarius: No horoscope available
+
+[2026-09-16] Taurus: No horoscope available
