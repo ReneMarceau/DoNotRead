@@ -132,3 +132,5 @@
 [2026-09-17] Pisces: No horoscope available
 
 [2026-09-20] Pisces: No horoscope available
+
+[2026-09-20] Leo: No horoscope available
