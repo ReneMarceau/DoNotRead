@@ -136,3 +136,5 @@
 [2026-09-20] Leo: No horoscope available
 
 [2026-09-21] Libra: No horoscope available
+
+[2026-09-22] Scorpio: No horoscope available
