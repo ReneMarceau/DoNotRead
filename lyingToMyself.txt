@@ -138,3 +138,5 @@
 [2026-09-21] Libra: No horoscope available
 
 [2026-09-22] Scorpio: No horoscope available
+
+[2026-09-22] Sagittarius: No horoscope available
