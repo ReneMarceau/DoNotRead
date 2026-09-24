@@ -146,3 +146,5 @@
 [2026-09-24] Virgo: No horoscope available
 
 [2026-09-24] Libra: No horoscope available
+
+[2026-09-24] Cancer: No horoscope available
