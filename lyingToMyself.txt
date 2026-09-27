@@ -152,3 +152,5 @@
 [2026-09-25] Cancer: No horoscope available
 
 [2026-09-25] Scorpio: No horoscope available
+
+[2026-09-27] Aquarius: No horoscope available
