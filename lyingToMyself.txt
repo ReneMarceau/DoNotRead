@@ -156,3 +156,5 @@
 [2026-09-27] Aquarius: No horoscope available
 
 [2026-09-28] Libra: No horoscope available
+
+[2026-09-28] Sagittarius: No horoscope available
