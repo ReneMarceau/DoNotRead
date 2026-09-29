@@ -160,3 +160,5 @@
 [2026-09-28] Sagittarius: No horoscope available
 
 [2026-09-29] Cancer: No horoscope available
+
+[2026-09-29] Libra: No horoscope available
