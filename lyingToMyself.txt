@@ -164,3 +164,5 @@
 [2026-09-29] Libra: No horoscope available
 
 [2026-10-02] Virgo: No horoscope available
+
+[2026-10-03] Leo: No horoscope available
